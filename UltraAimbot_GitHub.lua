@@ -2,7 +2,7 @@
     UltraAimbot - Script Aimbot Avancé avec Anti-Détection
     Version: 2.1 - GitHub Version
     Compatible avec tous les exécuteurs
-    URL: loadstring(game:HttpGet("https://raw.githubusercontent.com/Killerdu05/UltraAimbot/main/UltraAimbot.lua", true))()
+    URL: https://raw.githubusercontent.com/Killerdu05/UltraAimbot/main/UltraAimbot.lua
 ]]
 
 -- Variables de base
@@ -849,4 +849,3 @@ _G.UltraAimbotAPI = {
     GetVisuals = function() return Visuals end,
     IsCompatible = function() return true end
 }
-
